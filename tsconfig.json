@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/_app.js", "components/users/AddEdit.tsx", "components/users/AddEdit.tsx", "components/users/index.ts", "components/users/Layout.tsx", "components/Alert.tsx", "pages/api/users/authenticate.ts", "pages/api/users/index.ts", "pages/account/register.jsx", "pages/api/users/[id].js", "components/index.js", "pages/account/register.jsx", "pages/api/users/[id].js", "components/index.js"],
+  "exclude": ["node_modules"]
+}

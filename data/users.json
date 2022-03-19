@@ -1,0 +1,29 @@
+[
+    {
+        "firstName": "Aun",
+        "lastName": "Mirza",
+        "username": "aun47",
+        "hash": "$2a$10$ISs8RM9vtvqH27djAWlD1eveRqeo.LDwvpusDk6gN6dI/wE.yLGTK",
+        "id": 2,
+        "dateCreated": "2022-03-19T20:37:06.257Z",
+        "dateUpdated": "2022-03-19T20:37:06.257Z"
+    },
+    {
+        "firstName": "Ahsan",
+        "lastName": "Mirza",
+        "username": "ahsan47",
+        "hash": "$2a$10$t.EbUsUnFGzQflIDKMPvNeroQ9JEOeNyF1/jrRgvY.mhUdECX9MU2",
+        "id": 3,
+        "dateCreated": "2022-03-19T23:09:29.271Z",
+        "dateUpdated": "2022-03-19T23:09:29.271Z"
+    },
+    {
+        "firstName": "imran ",
+        "lastName": "Mirza",
+        "username": "imran47",
+        "hash": "$2a$10$JLrsq2huN4OioxQvCT4nTuQOuo.K5bD2hKb53SJqiZGm6UDOFWIMO",
+        "id": 4,
+        "dateCreated": "2022-03-19T23:09:57.213Z",
+        "dateUpdated": "2022-03-19T23:09:57.213Z"
+    }
+]
